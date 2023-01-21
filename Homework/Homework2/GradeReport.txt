@@ -1,0 +1,69 @@
+
+[Executed at: Wed Nov 9 16:45:49 PST 2022]
+
+Programming language...
+JAVA
+
+Wed 09 Nov 2022 04:10:51 PM PST
+
+Playing with random_player...
+Wed 09 Nov 2022 04:10:51 PM PST
+=====Summary=====
+You play as Black Player | Win: 10 | Lose: 0 | Tie: 0
+You play as White Player | Win: 10 | Lose: 0 | Tie: 0
+
+Playing with greedy_player...
+Wed 09 Nov 2022 04:18:12 PM PST
+=====Summary=====
+You play as Black Player | Win: 10 | Lose: 0 | Tie: 0
+You play as White Player | Win: 10 | Lose: 0 | Tie: 0
+
+Playing with aggressive_player...
+Wed 09 Nov 2022 04:26:12 PM PST
+=====Summary=====
+You play as Black Player | Win: 10 | Lose: 0 | Tie: 0
+You play as White Player | Win: 10 | Lose: 0 | Tie: 0
+
+Playing with alphabeta_player...
+Wed 09 Nov 2022 04:36:23 PM PST
+=====Summary=====
+You play as Black Player | Win: 0 | Lose: 10 | Tie: 0
+You play as White Player | Win: 10 | Lose: 0 | Tie: 0
+
+Result:
+Random win rate: 1
+Greedy win rate: 1
+Aggressive win rate: 1
+Final score: 77.5/75
+
+Mission Completed.
+Wed 09 Nov 2022 04:45:38 PM PST
+
+
+[Executed at: Wed Nov 9 15:54:08 PST 2022]
+
+Programming language...
+JAVA
+
+Wed 09 Nov 2022 03:40:47 PM PST
+
+Playing with qlearning_player...
+Wed 09 Nov 2022 03:40:47 PM PST
+=====Summary=====
+You play as Black Player | Win: 10 | Lose: 0 | Tie: 0
+You play as White Player | Win: 10 | Lose: 0 | Tie: 0
+
+Playing with championship_player...
+Wed 09 Nov 2022 03:44:58 PM PST
+=====Summary=====
+You play as Black Player | Win: 2 | Lose: 8 | Tie: 0
+You play as White Player | Win: 0 | Lose: 10 | Tie: 0
+
+Result:
+qlearning win rate: 1
+championship win rate: 0.1
+Final score: 5.2
+
+Mission Completed.
+Wed 09 Nov 2022 03:54:05 PM PST
+
